@@ -32,8 +32,8 @@ from sklearn.metrics import accuracy_score,precision_score,recall_score,f1_score
 import seaborn as sns
 import matplotlib.pyplot as plt
 df=pd.read_csv('food_items (1).csv')
-print('Name: VIJAYAPRATHISHA J')
-print('Reg.No: 212225240184')
+print('Name: Shrivarshan')
+print('Reg.No: 25019111')
 print('Dataset Overview')
 print(df.head())
 print("\nDataset Info:")
@@ -52,8 +52,8 @@ max_iter=1000
 l2_model=LogisticRegression(random_state=123,penalty=penalty,multi_class=multi_class,solver=solver,max_iter=max_iter)
 l2_model.fit(X_train,y_train)
 y_pred=l2_model.predict(X_test)
-print('Name: VIJAYAPRATHISHA J')
-print('Reg. No: 212225240184')
+print('Name: Shrivarshan')
+print('Reg. No: 25019111')
 print("\nModel Evaluation:")
 print("Accuracy:",accuracy_score(y_test,y_pred))
 print("\nClassification Report:")
