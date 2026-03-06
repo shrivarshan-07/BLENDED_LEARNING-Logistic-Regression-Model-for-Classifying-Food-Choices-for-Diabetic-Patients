@@ -60,8 +60,8 @@ print("\nClassification Report:")
 print(classification_report(y_test,y_pred))
 conf_matrix=confusion_matrix(y_test,y_pred)
 print(conf_matrix)
-print("Name: VIJAYAPRATHISHA J")
-print("Reg. No: 212225240184")
+print("Name: Shrivarshan")
+print("Reg. No: 25019111")
 */
 ```
 
