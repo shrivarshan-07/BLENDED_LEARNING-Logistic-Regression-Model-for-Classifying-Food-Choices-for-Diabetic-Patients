@@ -67,8 +67,9 @@ print("Reg. No: 25019111")
 
 ## Output:
 
-
+<img width="908" height="664" alt="Screenshot 2026-03-29 110049" src="https://github.com/user-attachments/assets/11730f4d-c88e-4f7c-a5b8-79da1d1f4a8e" />
 <img width="605" height="475" alt="image" src="https://github.com/user-attachments/assets/86a65df0-656d-4e6a-bdb8-8acc27a8f089" />
+<img width="641" height="490" alt="Screenshot 2026-03-29 110100" src="https://github.com/user-attachments/assets/8bfd4c62-6a44-401d-962a-2d8e1580872a" />
 
 
 ## Result:
